@@ -1,2 +1,2 @@
 # LSTproject
-Land surface temperature
+Obtaining Land Surface Temperature from Landsat 8 data
